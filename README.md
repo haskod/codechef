@@ -1,2 +1,3 @@
-# codechef
-CodeChef Solutions.
+# CodeChef
+
+An archive of CodeChef solutions.
